@@ -1,6 +1,6 @@
 # Waffle.re
 
-Waffle is simple streams library for reasonML, inspired by [flyd](https://github.com/paldepind/flyd), and was originally created for implementing [Meiosis](https://meiosis.js.org/) for state management - still haven't used it for that yet :innocent: .
+Waffle is a simple streams library for reasonML, inspired by [flyd](https://github.com/paldepind/flyd), and was originally created for implementing [Meiosis](https://meiosis.js.org/) for state management - still haven't used it for that yet :innocent: .
 
 Since Waffle is still under development, it lacks many of the features in flyd(e.g. combining streams, atomic updates, ...), so you're welcome to help :smile:
 
