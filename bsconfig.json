@@ -1,0 +1,19 @@
+{
+    "name": "reason-waffle",
+    "sources": [
+        {
+            "dir": "src",
+            "subdirs": true
+        },
+        { "dir": "__tests__", "type": "dev" }
+    ],
+    "package-specs": {
+        "module": "commonjs",
+        "in-source": true
+    },
+    "suffix": ".bs.js",
+    "bs-dev-dependencies": ["@glennsl/bs-jest"],
+    "namespaces": true,
+    "warnings": { "error": "+101" },
+    "refmt": 3
+}

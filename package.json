@@ -1,0 +1,27 @@
+{
+    "name": "reason-waffle",
+    "version": "0.1.0",
+    "description": "Minimalistic streams library for ReasonML",
+    "scripts": {
+        "build": "bsb -make-world",
+        "start": "bsb -make-world -w",
+        "clean": "bsb -clean-world",
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ZuraJanaiNazayDa/WaffleRe.git"
+    },
+    "keywords": ["streams", "reasonML"],
+    "author":
+        "Yazan Alkheder <ZuraJanaiNazayDa@gmail.com> (http://ZuraJanaiNazayDa.github.io/)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ZuraJanaiNazayDa/WaffleRe/issues"
+    },
+    "homepage": "https://github.com/ZuraJanaiNazayDa/WaffleRe#readme",
+    "devDependencies": {
+        "@glennsl/bs-jest": "^0.4.2",
+        "bs-platform": "^3.0.0"
+    }
+}
