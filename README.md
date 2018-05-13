@@ -45,4 +45,9 @@ Then add `reason-waffle` to `bs-dependencies` in your `bsconfig.json`:
 }
 ```
 
-### More... well, you know :sweat_smile:
+## Usage with ReasonReact:
+
+Please see [ReasonReactWaffle.re](https://github.com/ZuraJanaiNazayDa/reason-react-waffle).
+
+
+## More... well, you know :sweat_smile:
